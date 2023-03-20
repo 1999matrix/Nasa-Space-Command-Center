@@ -1,0 +1,1 @@
+There are a few ways to create an auto committer for GitHub. One way is to create a batch file (.bat) with commands to add, commit, and push changes to your repository.
